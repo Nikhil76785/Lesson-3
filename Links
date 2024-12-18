@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>
+            Links!
+        </title>
+    </head>
+    <body>
+        <h1>HTML Links</h1>
+        <p>Lets go into the world of 
+            <a href="https://www.codingal.com/student/dashboard/">Coding!</a><hr>
+            Let's surf the net using 
+            <a href="https://www.google.co.in">Google!</a>
+        </p>
+    </body>
+</html>

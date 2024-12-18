@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title>Cool Games</title>
+    </head>
+    <body>
+        <h1>Top 5 Most Popular Games</h1>
+        <table>
+        <thead>
+        <tr>
+            <th>S.No</th>
+            <th>Great Game</th>
+            <th>Creator</th>
+        </tr>
+        </thead>
+        <tr>
+            <td>1.</td>
+            <td>Minecraft</td>
+            <td>Mojang Studios</td>
+        </tr> 
+        <tr>
+            <td>2.</td>
+            <td>Roblox</td>
+            <td>David Baszucki</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>Fortnite</td>
+            <td>Tim Sweeney</td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <td>Among Us</td>
+            <td>Innersloth Studios</td>
+        </tr>   
+        <tr>
+            <td>5.</td>
+            <td>Rocket League</td>
+            <td>Corey Davis</td>
+        </tr>
+        </table>
+    </body>
+</html>
